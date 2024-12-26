@@ -29,3 +29,13 @@ git push --mirror mirror
 ```
 
 Which can be done via utils/update-github-repos-to-MCP-Mirror.sh
+
+## Repo sources
+
+* https://mcp.so
+* https://mcpserver.cloud
+* https://mcpservers.org/
+* https://smithery.ai
+* https://github.com/modelcontextprotocol/servers
+* https://glama.ai/mcp/servers.json
+
