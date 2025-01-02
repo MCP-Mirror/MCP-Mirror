@@ -3,4 +3,5 @@ https://github.com/felores/airtable-mcp-server
 https://github.com/kangaekata/mcp-cortex
 https://github.com/qeinfinity/mcp-server-binance
 https://github.com/CoffeeCoder1015/MCPProx
-
+https://github.com/andrewsah/mcp_rs_test/
+https://github.com/angrysky56/workspace-db-manager/

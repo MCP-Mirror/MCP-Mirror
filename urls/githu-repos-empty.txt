@@ -31,3 +31,6 @@ https://github.com/prdnr/Rambling-Thought-Trail
 https://github.com/sdairs/mcp-community
 https://github.com/sudhanbhandari0/Claude-MCP-server-test
 https://github.com/tech4life87/s3-mcp-server
+https://github.com/CoffeeCoder1015/MCPProxyServer
+https://github.com/PoQaT/Server-facu-mcp2.0.5
+https://github.com/delano/postman-mcp-server
