@@ -30,12 +30,26 @@ git push --mirror mirror
 
 Which can be done via utils/update-github-repos-to-MCP-Mirror.sh
 
-## Repo sources
+# MCP-Resources
 
-* https://mcp.so
+## MCP Server Lists
+
+* [Glama](https://glama.ai/mcp/servers?attributes=)
+* [mcp.so](https://mcp.so/)
+* [mcp-get.com](https://mcp-get.com/)
+* [mcpservers.ai](https://www.mcpservers.ai/)
+* [Smithery](https://smithery.ai/)
 * https://mcpserver.cloud
 * https://mcpservers.org/
-* https://smithery.ai
-* https://github.com/modelcontextprotocol/servers
-* https://glama.ai/mcp/servers.json
 
+## MCP Building Articles
+
+* [Building MCP with LLMs](https://modelcontextprotocol.io/tutorials/building-mcp-with-llms)
+* [How to Build MCP Servers with FastMCP: Step-by-Step Tutorial for Beginners](https://medium.com/@pedro.aquino.se/how-to-build-mcp-servers-with-fastmcp-step-by-step-tutorial-for-beginners-0a6ddd1d3f95)
+* 
+
+## MCP Resource Listing Standards
+
+* [Service Discovwr for MCP](https://github.com/modelcontextprotocol/specification/discussions?discussions_q=is%3Aopen+well-known)
+* [llms.txt](https://llmstxt.org/) (Note: should be moved to /.well-known/)
+  
