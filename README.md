@@ -34,7 +34,7 @@ Which can be done via utils/update-github-repos-to-MCP-Mirror.sh
 
 ## MCP Server Lists
 
-* [Glama](https://glama.ai/mcp/servers?attributes=)
+* [Glama](https://glama.ai/mcp/servers?attributes=) [servers.json](https://glama.ai/mcp/servers.json)
 * [mcp.so](https://mcp.so/)
 * [mcp-get.com](https://mcp-get.com/)
 * [mcpservers.ai](https://www.mcpservers.ai/)
