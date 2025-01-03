@@ -32,6 +32,13 @@ Which can be done via utils/update-github-repos-to-MCP-Mirror.sh
 
 # MCP-Resources
 
+## Official resources
+
+* [MCP](https://modelcontextprotocol.io/)
+* [MCP GitHub Organization](https://github.com/modelcontextprotocol/)
+* [MCP Specification](https://spec.modelcontextprotocol.io/specification/)
+* [MCP Discussion](https://github.com/orgs/modelcontextprotocol/discussions)]
+
 ## MCP Server Lists
 
 * [Glama](https://glama.ai/mcp/servers?attributes=) [servers.json](https://glama.ai/mcp/servers.json)
