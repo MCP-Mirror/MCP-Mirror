@@ -7,5 +7,6 @@ https://github.com/angrysky56/workspace-db-manager/
 https://github.com/felores/airtable-mcp-server
 https://github.com/kangaekata/mcp-cortex
 https://github.com/mtunell/mcp-filesystem-python
+https://github.com/patruff/terminator
 https://github.com/privetin/mcp-server-chroma
 https://github.com/qeinfinity/mcp-server-binance

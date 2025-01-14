@@ -25,8 +25,6 @@ https://github.com/mark3labs/mcp-filesystem-server
 https://github.com/mathemagie/MCP_server_weather
 https://github.com/myownipgit/mcp-server-patent
 https://github.com/p0735330/test-repo
-https://github.com/patruff/claude-mcp-setup
-https://github.com/patruff/terminator
 https://github.com/prdnr/Rambling-Thought-Trail
 https://github.com/sdairs/mcp-community
 https://github.com/sudhanbhandari0/Claude-MCP-server-test
