@@ -54,6 +54,8 @@ https://github.com/MCP-Mirror/DynamicEndpoints_pocketbase-mcp-server
 https://github.com/MCP-Mirror/DynamicEndpoints_supabase-mcp
 https://github.com/MCP-Mirror/Ejb503_multimodal-mcp-client
 https://github.com/MCP-Mirror/Ejb503_systemprompt-mcp-core
+https://github.com/MCP-Mirror/Ejb503_systemprompt-mcp-google
+https://github.com/MCP-Mirror/Ejb503_systemprompt-mcp-notion
 https://github.com/MCP-Mirror/EnesCinr_twitter-mcp
 https://github.com/MCP-Mirror/EvalsOne_MCP-bridge
 https://github.com/MCP-Mirror/EvalsOne_MCP-connect
@@ -80,6 +82,7 @@ https://github.com/MCP-Mirror/JoshuaRileyDev_mac-apps-launcher
 https://github.com/MCP-Mirror/JoshuaRileyDev_simulator-mcp-server
 https://github.com/MCP-Mirror/JoshuaRileyDev_supabase-mcp-server
 https://github.com/MCP-Mirror/KS-GEN-AI_jira-mcp-server
+https://github.com/MCP-Mirror/Kallows_mcp-jira-python
 https://github.com/MCP-Mirror/KashiwaByte_vikingdb-mcp-server
 https://github.com/MCP-Mirror/Kush36Agrawal_Video_Editor_MCP
 https://github.com/MCP-Mirror/LNSSPsd_arm64-mcpelauncher-server
@@ -97,11 +100,13 @@ https://github.com/MCP-Mirror/MaheshDoiphode_mcp-cline-project-content-server
 https://github.com/MCP-Mirror/MarkusPfundstein_cmd-line-executor-MCP
 https://github.com/MCP-Mirror/MarkusPfundstein_mcp-gsuite
 https://github.com/MCP-Mirror/MarkusPfundstein_mcp-obsidian
+https://github.com/MCP-Mirror/MatthewDailey_mcp-starter
 https://github.com/MCP-Mirror/MediaPublishing_mcp-manager
 https://github.com/MCP-Mirror/MindscapeHQ_mcp-server-raygun
 https://github.com/MCP-Mirror/MladenSU_cli-mcp-server
 https://github.com/MCP-Mirror/Nayshins_mcp-server-ccxt
 https://github.com/MCP-Mirror/NightTrek_moondream-mcp
+https://github.com/MCP-Mirror/Nikhil-Patil-RI_MCP-Github-Oauth
 https://github.com/MCP-Mirror/Nikogenia_Java-MCPlugin-ChallengeServerBungeePlugin
 https://github.com/MCP-Mirror/Nishant1500_Optifine-Mod-Coder-Pack-1.16.1
 https://github.com/MCP-Mirror/Noeli14_MCppServer
@@ -156,6 +161,7 @@ https://github.com/MCP-Mirror/Synaptic-Labs-AI_claudesidian
 https://github.com/MCP-Mirror/TaichiHo_k8s-interactive-mcp
 https://github.com/MCP-Mirror/TakumiY235_uniprot-mcp-server
 https://github.com/MCP-Mirror/TeamDman_mcp-server-hello
+https://github.com/MCP-Mirror/TeglonLabs_coin-flip-mcp
 https://github.com/MCP-Mirror/Text2Go_ai-humanizer-mcp-server
 https://github.com/MCP-Mirror/TimHolden_figma-mcp-server
 https://github.com/MCP-Mirror/Tomatio13_mcp-server-tavily
@@ -242,6 +248,7 @@ https://github.com/MCP-Mirror/baba786_angleone-mcp-server
 https://github.com/MCP-Mirror/baba786_phabricator-mcp-server
 https://github.com/MCP-Mirror/bartolli_mcp-llm-bridge
 https://github.com/MCP-Mirror/bartwisch_MCPRules
+https://github.com/MCP-Mirror/baryhuang_mcp-hubspot
 https://github.com/MCP-Mirror/benborla_mcp-server-mysql
 https://github.com/MCP-Mirror/berlinbra_alpha-vantage-mcp
 https://github.com/MCP-Mirror/bigcodegen_mcp-neovim-server
@@ -251,6 +258,7 @@ https://github.com/MCP-Mirror/blazickjp_arxiv-mcp-server
 https://github.com/MCP-Mirror/blazickjp_shell-mcp-server
 https://github.com/MCP-Mirror/blazickjp_web-browser-mcp-server
 https://github.com/MCP-Mirror/blurrah_mcp-graphql
+https://github.com/MCP-Mirror/bmorphism_anti-bullshit-mcp-server
 https://github.com/MCP-Mirror/bmorphism_babashka-mcp-server
 https://github.com/MCP-Mirror/bmorphism_marginalia-mcp-server
 https://github.com/MCP-Mirror/bmorphism_penumbra-mcp
@@ -279,6 +287,7 @@ https://github.com/MCP-Mirror/ckreiling_mcp-server-docker
 https://github.com/MCP-Mirror/cloudflare_mcp-server-cloudflare
 https://github.com/MCP-Mirror/cosmix_jira-mcp
 https://github.com/MCP-Mirror/cr7258_elasticsearch-mcp-server
+https://github.com/MCP-Mirror/craigsdennis_talk-to-javascript-openai-workers
 https://github.com/MCP-Mirror/crazyrabbitLTC_mcp-coingecko-server
 https://github.com/MCP-Mirror/crazyrabbitLTC_mcp-etherscan-server
 https://github.com/MCP-Mirror/crazyrabbitLTC_mcp-expert-server
@@ -313,6 +322,8 @@ https://github.com/MCP-Mirror/dkmaker_mcp-rest-api
 https://github.com/MCP-Mirror/dmayboroda_minima
 https://github.com/MCP-Mirror/domdomegg_airtable-mcp-server
 https://github.com/MCP-Mirror/doobidoo_mcp-memory-service
+https://github.com/MCP-Mirror/doomdagadiggiedahdah_iacr-mcp-server
+https://github.com/MCP-Mirror/dschuler36_reaper-mcp-server
 https://github.com/MCP-Mirror/duan-li_mcp-weather-server-example
 https://github.com/MCP-Mirror/duhlink_instagram-server-next-mcp
 https://github.com/MCP-Mirror/dylibso_mcp.run-servlets
@@ -381,9 +392,12 @@ https://github.com/MCP-Mirror/hideya_mcp-client-langchain-py
 https://github.com/MCP-Mirror/hideya_weather-mcp-server
 https://github.com/MCP-Mirror/hmk_box-mcp-server
 https://github.com/MCP-Mirror/hrmeetsingh_mcp-browser-automation
+https://github.com/MCP-Mirror/iaptic_mcp-server-iaptic
+https://github.com/MCP-Mirror/ibraheem4_linear-mcp
 https://github.com/MCP-Mirror/identimoji_mcp-server-emojikey
 https://github.com/MCP-Mirror/ihor-sokoliuk_mcp-searxng
 https://github.com/MCP-Mirror/imankamyabi_dynamodb-mcp-server
+https://github.com/MCP-Mirror/integration-app_mcp-server
 https://github.com/MCP-Mirror/isaacphi_mcp-gdrive
 https://github.com/MCP-Mirror/isaacwasserman_mcp-langchain-ts-client
 https://github.com/MCP-Mirror/isaacwasserman_mcp-snowflake-server
@@ -399,6 +413,7 @@ https://github.com/MCP-Mirror/jango-blockchained_homeassistant-mcp
 https://github.com/MCP-Mirror/jerhadf_linear-mcp-server
 https://github.com/MCP-Mirror/jlowin_fastmcp
 https://github.com/MCP-Mirror/jmagar_ghome-mcp-server
+https://github.com/MCP-Mirror/jmonsellier_gmail-mcp-server
 https://github.com/MCP-Mirror/joeBlockchain_mcp-jina-ai
 https://github.com/MCP-Mirror/joeBlockchain_mcp-server-client
 https://github.com/MCP-Mirror/johnnyoshika_mcp-server-sqlite-npx
@@ -458,6 +473,7 @@ https://github.com/MCP-Mirror/macrat_mcp-ayd-server
 https://github.com/MCP-Mirror/macrat_mcp-server-kintone
 https://github.com/MCP-Mirror/madhukarkumar_singlestore-mcp-server
 https://github.com/MCP-Mirror/mahawi1992_mcp-documentation-server
+https://github.com/MCP-Mirror/makafeli_n8n-workflow-builder
 https://github.com/MCP-Mirror/mamertofabian_elevenlabs-mcp-server
 https://github.com/MCP-Mirror/mamertofabian_mcp-everything-search
 https://github.com/MCP-Mirror/mark3labs_mcp-filesystem-server
@@ -519,6 +535,7 @@ https://github.com/MCP-Mirror/oatpp_oatpp-mcp
 https://github.com/MCP-Mirror/odysseus0_mcp-server-shell
 https://github.com/MCP-Mirror/olegshilin_mcp-eagle
 https://github.com/MCP-Mirror/ondrsh_kmcp
+https://github.com/MCP-Mirror/open-strategy-partners_osp_marketing_tools
 https://github.com/MCP-Mirror/openSVM_zig-mcp-server
 https://github.com/MCP-Mirror/oslook_mcp-servers-schemas
 https://github.com/MCP-Mirror/parmarjh_mcp-reasoner
@@ -553,6 +570,7 @@ https://github.com/MCP-Mirror/quarkiverse_quarkus-mcp-server
 https://github.com/MCP-Mirror/qwang07_duck-duck-mcp
 https://github.com/MCP-Mirror/r-huijts_ns-mcp-server
 https://github.com/MCP-Mirror/r-huijts_rijksmuseum-mcp
+https://github.com/MCP-Mirror/r-huijts_xcode-mcp-server
 https://github.com/MCP-Mirror/rados10_youtube-watchlater-mcp
 https://github.com/MCP-Mirror/rakesh-eltropy_mcp-client
 https://github.com/MCP-Mirror/random-robbie_mcp-web-browser
@@ -598,6 +616,7 @@ https://github.com/MCP-Mirror/shanejonas_openrpc-mpc-server
 https://github.com/MCP-Mirror/shannonlal_mcp-postman
 https://github.com/MCP-Mirror/sirmews_apple-notes-mcp
 https://github.com/MCP-Mirror/sirmews_mcp-pinecone
+https://github.com/MCP-Mirror/sirmews_mcp-remote-server
 https://github.com/MCP-Mirror/skydeckai_mcp-server-aidd
 https://github.com/MCP-Mirror/skydeckai_mcp-server-rememberizer
 https://github.com/MCP-Mirror/slime-io_istio-mcp
@@ -609,6 +628,7 @@ https://github.com/MCP-Mirror/sparfenyuk_mcp-proxy
 https://github.com/MCP-Mirror/sparfenyuk_mcp-telegram
 https://github.com/MCP-Mirror/sparfenyuk_mcp-youtube
 https://github.com/MCP-Mirror/spencerhhubert_illustrator-mcp-server
+https://github.com/MCP-Mirror/spences10_mcp-memory-libsql
 https://github.com/MCP-Mirror/splendasucks_webperfect-mcp-server
 https://github.com/MCP-Mirror/spuerFan_mcp-research
 https://github.com/MCP-Mirror/spullara_mcp-server
@@ -679,6 +699,7 @@ https://github.com/MCP-Mirror/wong2_mcp-cli
 https://github.com/MCP-Mirror/wong2_mcp-jina-reader
 https://github.com/MCP-Mirror/wopal-cn_mcp-hotnews-server
 https://github.com/MCP-Mirror/worldnine_scrapbox-cosense-mcp
+https://github.com/MCP-Mirror/worldnine_textwell-mcp
 https://github.com/MCP-Mirror/wrale_mcp-server-make
 https://github.com/MCP-Mirror/wrale_mcp-server-yahoo-finance
 https://github.com/MCP-Mirror/wshobson_mcp-trader

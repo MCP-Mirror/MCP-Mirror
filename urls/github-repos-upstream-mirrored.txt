@@ -54,6 +54,8 @@ https://github.com/DynamicEndpoints/pocketbase-mcp-server
 https://github.com/DynamicEndpoints/supabase-mcp
 https://github.com/Ejb503/multimodal-mcp-client
 https://github.com/Ejb503/systemprompt-mcp-core
+https://github.com/Ejb503/systemprompt-mcp-google
+https://github.com/Ejb503/systemprompt-mcp-notion
 https://github.com/EnesCinr/twitter-mcp
 https://github.com/EvalsOne/MCP-bridge
 https://github.com/EvalsOne/MCP-connect
@@ -80,6 +82,7 @@ https://github.com/JoshuaRileyDev/mac-apps-launcher
 https://github.com/JoshuaRileyDev/simulator-mcp-server
 https://github.com/JoshuaRileyDev/supabase-mcp-server
 https://github.com/KS-GEN-AI/jira-mcp-server
+https://github.com/Kallows/mcp-jira-python
 https://github.com/KashiwaByte/vikingdb-mcp-server
 https://github.com/Kush36Agrawal/Video_Editor_MCP
 https://github.com/LNSSPsd/arm64-mcpelauncher-server
@@ -97,11 +100,13 @@ https://github.com/MaheshDoiphode/mcp-cline-project-content-server
 https://github.com/MarkusPfundstein/cmd-line-executor-MCP
 https://github.com/MarkusPfundstein/mcp-gsuite
 https://github.com/MarkusPfundstein/mcp-obsidian
+https://github.com/MatthewDailey/mcp-starter
 https://github.com/MediaPublishing/mcp-manager
 https://github.com/MindscapeHQ/mcp-server-raygun
 https://github.com/MladenSU/cli-mcp-server
 https://github.com/Nayshins/mcp-server-ccxt
 https://github.com/NightTrek/moondream-mcp
+https://github.com/Nikhil-Patil-RI/MCP-Github-Oauth
 https://github.com/Nikogenia/Java-MCPlugin-ChallengeServerBungeePlugin
 https://github.com/Nishant1500/Optifine-Mod-Coder-Pack-1.16.1
 https://github.com/Noeli14/MCppServer
@@ -156,6 +161,7 @@ https://github.com/Synaptic-Labs-AI/claudesidian
 https://github.com/TaichiHo/k8s-interactive-mcp
 https://github.com/TakumiY235/uniprot-mcp-server
 https://github.com/TeamDman/mcp-server-hello
+https://github.com/TeglonLabs/coin-flip-mcp
 https://github.com/Text2Go/ai-humanizer-mcp-server
 https://github.com/TimHolden/figma-mcp-server
 https://github.com/Tomatio13/mcp-server-tavily
@@ -242,6 +248,7 @@ https://github.com/baba786/angleone-mcp-server
 https://github.com/baba786/phabricator-mcp-server
 https://github.com/bartolli/mcp-llm-bridge
 https://github.com/bartwisch/MCPRules
+https://github.com/baryhuang/mcp-hubspot
 https://github.com/benborla/mcp-server-mysql
 https://github.com/berlinbra/alpha-vantage-mcp
 https://github.com/bigcodegen/mcp-neovim-server
@@ -251,6 +258,7 @@ https://github.com/blazickjp/arxiv-mcp-server
 https://github.com/blazickjp/shell-mcp-server
 https://github.com/blazickjp/web-browser-mcp-server
 https://github.com/blurrah/mcp-graphql
+https://github.com/bmorphism/anti-bullshit-mcp-server
 https://github.com/bmorphism/babashka-mcp-server
 https://github.com/bmorphism/marginalia-mcp-server
 https://github.com/bmorphism/penumbra-mcp
@@ -279,6 +287,7 @@ https://github.com/ckreiling/mcp-server-docker
 https://github.com/cloudflare/mcp-server-cloudflare
 https://github.com/cosmix/jira-mcp
 https://github.com/cr7258/elasticsearch-mcp-server
+https://github.com/craigsdennis/talk-to-javascript-openai-workers
 https://github.com/crazyrabbitLTC/mcp-coingecko-server
 https://github.com/crazyrabbitLTC/mcp-etherscan-server
 https://github.com/crazyrabbitLTC/mcp-expert-server
@@ -313,6 +322,8 @@ https://github.com/dkmaker/mcp-rest-api
 https://github.com/dmayboroda/minima
 https://github.com/domdomegg/airtable-mcp-server
 https://github.com/doobidoo/mcp-memory-service
+https://github.com/doomdagadiggiedahdah/iacr-mcp-server
+https://github.com/dschuler36/reaper-mcp-server
 https://github.com/duan-li/mcp-weather-server-example
 https://github.com/duhlink/instagram-server-next-mcp
 https://github.com/dylibso/mcp.run-servlets
@@ -381,9 +392,12 @@ https://github.com/hideya/mcp-client-langchain-py
 https://github.com/hideya/weather-mcp-server
 https://github.com/hmk/box-mcp-server
 https://github.com/hrmeetsingh/mcp-browser-automation
+https://github.com/iaptic/mcp-server-iaptic
+https://github.com/ibraheem4/linear-mcp
 https://github.com/identimoji/mcp-server-emojikey
 https://github.com/ihor-sokoliuk/mcp-searxng
 https://github.com/imankamyabi/dynamodb-mcp-server
+https://github.com/integration-app/mcp-server
 https://github.com/isaacphi/mcp-gdrive
 https://github.com/isaacwasserman/mcp-langchain-ts-client
 https://github.com/isaacwasserman/mcp-snowflake-server
@@ -399,6 +413,7 @@ https://github.com/jango-blockchained/homeassistant-mcp
 https://github.com/jerhadf/linear-mcp-server
 https://github.com/jlowin/fastmcp
 https://github.com/jmagar/ghome-mcp-server
+https://github.com/jmonsellier/gmail-mcp-server
 https://github.com/joeBlockchain/mcp-jina-ai
 https://github.com/joeBlockchain/mcp-server-client
 https://github.com/johnnyoshika/mcp-server-sqlite-npx
@@ -458,6 +473,7 @@ https://github.com/macrat/mcp-ayd-server
 https://github.com/macrat/mcp-server-kintone
 https://github.com/madhukarkumar/singlestore-mcp-server
 https://github.com/mahawi1992/mcp-documentation-server
+https://github.com/makafeli/n8n-workflow-builder
 https://github.com/mamertofabian/elevenlabs-mcp-server
 https://github.com/mamertofabian/mcp-everything-search
 https://github.com/mark3labs/mcp-filesystem-server
@@ -519,6 +535,7 @@ https://github.com/oatpp/oatpp-mcp
 https://github.com/odysseus0/mcp-server-shell
 https://github.com/olegshilin/mcp-eagle
 https://github.com/ondrsh/kmcp
+https://github.com/open-strategy-partners/osp_marketing_tools
 https://github.com/openSVM/zig-mcp-server
 https://github.com/oslook/mcp-servers-schemas
 https://github.com/parmarjh/mcp-reasoner
@@ -553,6 +570,7 @@ https://github.com/quarkiverse/quarkus-mcp-server
 https://github.com/qwang07/duck-duck-mcp
 https://github.com/r-huijts/ns-mcp-server
 https://github.com/r-huijts/rijksmuseum-mcp
+https://github.com/r-huijts/xcode-mcp-server
 https://github.com/rados10/youtube-watchlater-mcp
 https://github.com/rakesh-eltropy/mcp-client
 https://github.com/random-robbie/mcp-web-browser
@@ -598,6 +616,7 @@ https://github.com/shanejonas/openrpc-mpc-server
 https://github.com/shannonlal/mcp-postman
 https://github.com/sirmews/apple-notes-mcp
 https://github.com/sirmews/mcp-pinecone
+https://github.com/sirmews/mcp-remote-server
 https://github.com/skydeckai/mcp-server-aidd
 https://github.com/skydeckai/mcp-server-rememberizer
 https://github.com/slime-io/istio-mcp
@@ -609,6 +628,7 @@ https://github.com/sparfenyuk/mcp-proxy
 https://github.com/sparfenyuk/mcp-telegram
 https://github.com/sparfenyuk/mcp-youtube
 https://github.com/spencerhhubert/illustrator-mcp-server
+https://github.com/spences10/mcp-memory-libsql
 https://github.com/splendasucks/webperfect-mcp-server
 https://github.com/spuerFan/mcp-research
 https://github.com/spullara/mcp-server
@@ -679,6 +699,7 @@ https://github.com/wong2/mcp-cli
 https://github.com/wong2/mcp-jina-reader
 https://github.com/wopal-cn/mcp-hotnews-server
 https://github.com/worldnine/scrapbox-cosense-mcp
+https://github.com/worldnine/textwell-mcp
 https://github.com/wrale/mcp-server-make
 https://github.com/wrale/mcp-server-yahoo-finance
 https://github.com/wshobson/mcp-trader
