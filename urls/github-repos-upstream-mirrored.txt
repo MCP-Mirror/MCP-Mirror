@@ -183,6 +183,7 @@ https://github.com/ZubeidHendricks/youtube-mcp-server
 https://github.com/a1j9o94/swiss
 https://github.com/aallsbury/qb-time-mcp-server
 https://github.com/aaronsb/confluence-cloud-mcp
+https://github.com/aaronsb/salesforce-cloud
 https://github.com/abhiz123/todoist-mcp-server
 https://github.com/ac3xx/mcp-servers-kagi
 https://github.com/acehoss/mcp-gateway

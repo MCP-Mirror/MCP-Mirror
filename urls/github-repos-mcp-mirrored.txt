@@ -183,6 +183,7 @@ https://github.com/MCP-Mirror/ZubeidHendricks_youtube-mcp-server
 https://github.com/MCP-Mirror/a1j9o94_swiss
 https://github.com/MCP-Mirror/aallsbury_qb-time-mcp-server
 https://github.com/MCP-Mirror/aaronsb_confluence-cloud-mcp
+https://github.com/MCP-Mirror/aaronsb_salesforce-cloud
 https://github.com/MCP-Mirror/abhiz123_todoist-mcp-server
 https://github.com/MCP-Mirror/ac3xx_mcp-servers-kagi
 https://github.com/MCP-Mirror/acehoss_mcp-gateway
