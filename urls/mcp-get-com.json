@@ -1,4 +1,13 @@
-  [
+[
+  {
+    "name": "auto-coder",
+    "description": "MCP server for auto-coder.rag",
+    "vendor": "allwefantasy",
+    "sourceUrl": "https://github.com/allwefantasy/auto-coder",
+    "homepage": "https://github.com/allwefantasy/auto-coder",
+    "license": "MIT",
+    "runtime": "python"
+  },
   {
     "name": "mcp-solver",
     "description": "MCP server for Constraint Solving and Optimization",
@@ -447,6 +456,15 @@
     "sourceUrl": "https://github.com/ChanMeng666/server-google-news",
     "homepage": "https://github.com/ChanMeng666/server-google-news",
     "license": "MIT",
+    "runtime": "node"
+  },
+  {
+    "name": "redis",
+    "description": "",
+    "vendor": "",
+    "sourceUrl": "https://github.com/modelcontextprotocol/servers/blob/main/src/redis",
+    "homepage": "",
+    "license": "ISC",
     "runtime": "node"
   }
 ]

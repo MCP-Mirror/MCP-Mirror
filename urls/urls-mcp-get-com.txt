@@ -1,3 +1,4 @@
+https://github.com/allwefantasy/auto-coder
 https://github.com/szeider/mcp-solver
 https://github.com/cloudflare/mcp-server-cloudflare
 https://github.com/MindscapeHQ/mcp-server-raygun
