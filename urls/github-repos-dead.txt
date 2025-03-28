@@ -1,3 +1,9 @@
+https://github.com/lugondev/bsc-testnet-mcp-servers
+https://github.com/launchthatbrand/mcp-monday-ts
+https://github.com/apifox/apifox-mcp-server
+https://github.com/aigo666/mcp-framework
+https://github.com/DimitriGeelen/mcp-youtube
+https://github.com/topoteretes/cognee-mcp-server
 https://github.com/AgentWong/iac-memory-mcp-server
 https://github.com/CoffeeCoder1015/MCPProx
 https://github.com/GitDakky/COLUMBIA-MCP-SERVERS
